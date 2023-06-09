@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "6415ec61f2d94754fc54f0e4"
+  },
+  "rating_id": 0,
+  "user_id": 1,
+  "product_id": 5,
+  "rating": 2.8
+},{
+  "_id": {
+    "$oid": "6415f5eabed40eb5b23c2b5e"
+  },
+  "rating_id": 1,
+  "user_id": 1,
+  "product_id": 1,
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "6415fb63bed40eb5b23c2b61"
+  },
+  "rating_id": 2,
+  "user_id": 1,
+  "product_id": 7,
+  "rating": 3
+},{
+  "_id": {
+    "$oid": "6415fb68bed40eb5b23c2b62"
+  },
+  "rating_id": 3,
+  "user_id": 1,
+  "product_id": 8,
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "6415fb78bed40eb5b23c2b65"
+  },
+  "rating_id": 4,
+  "user_id": 1,
+  "product_id": 0,
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "6415fe43db5dd0fee55bedac"
+  },
+  "rating_id": 5,
+  "user_id": 1,
+  "product_id": 19,
+  "rating": 2
+},{
+  "_id": {
+    "$oid": "64160437e15316b306f858e3"
+  },
+  "rating_id": 6,
+  "user_id": 1,
+  "product_id": 2,
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "6416043ee15316b306f858e6"
+  },
+  "rating_id": 7,
+  "user_id": 1,
+  "product_id": 14,
+  "rating": 1
+},{
+  "_id": {
+    "$oid": "641604dc1719a81801e10e8b"
+  },
+  "rating_id": 8,
+  "user_id": 1,
+  "product_id": 20,
+  "rating": 2
+}]
